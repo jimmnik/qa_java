@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/Alex.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/Animal.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/Cat.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/Feline.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/Lion.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/AlexTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/CatTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/FelineParameterizedTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/FelineTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/LionParameterizedTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/LionTest.java" charset="UTF-8" />
+  </component>
+</project>
