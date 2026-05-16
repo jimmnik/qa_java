@@ -13,11 +13,10 @@ import java.util.List;
 public class AlexTest {
     @Mock
     private Alex alex;
-    private Feline feline;
 
     @BeforeEach
     void setUp() throws Exception {
-        feline = new Feline();
+        Feline feline = new Feline();
         alex = new Alex(feline);
     }
 
