@@ -9,9 +9,6 @@ import org.mockito.junit.jupiter.MockitoExtension;
 
 import java.util.List;
 
-import org.junit.jupiter.params.ParameterizedTest;
-import org.junit.jupiter.params.provider.CsvSource;
-
 
 @ExtendWith(MockitoExtension.class)
 public class LionTest{
